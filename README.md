@@ -118,6 +118,9 @@ The following screenshots will be included in the `screenshots/` directory:
 | Step 1 – Point cloud visualization in RViz | `screenshots/point_cloud.png` |
 | Step 7 – ROS node communication using rqt_graph | `screenshots/rqt_graph.png` |
 
+## Step 1: <img width="1443" height="1062" alt="image" src="https://github.com/user-attachments/assets/df8e0d54-56d6-4430-80f6-1b3c964b2b7e" />
+
+
 ## Challenges and Observations
 
 The simulation and robot behavior depend on the relevant ROS 2 nodes and topic publishers being active. The rotation action server relies on odometry data to measure the robot rotation. If the simulation or odometry publisher stops, the server cannot receive the updates needed to calculate progress.
