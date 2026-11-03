@@ -118,7 +118,9 @@ The following screenshots will be included in the `screenshots/` directory:
 | Step 1 – Point cloud visualization in RViz | `screenshots/point_cloud.png` |
 | Step 7 – ROS node communication using rqt_graph | `screenshots/rqt_graph.png` |
 
-## Step 1: <img width="1443" height="1062" alt="image" src="https://github.com/user-attachments/assets/df8e0d54-56d6-4430-80f6-1b3c964b2b7e" />
+### Step 1: <img width="1443" height="1062" alt="image" src="https://github.com/user-attachments/assets/df8e0d54-56d6-4430-80f6-1b3c964b2b7e" />
+### step 7: <img width="907" height="418" alt="image" src="https://github.com/user-attachments/assets/25e047b3-3c23-42c6-b570-08fb77dc6b6b" />
+
 
 
 ## Challenges and Observations
